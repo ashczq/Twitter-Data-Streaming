@@ -1,7 +1,10 @@
 # Live streaming twitter data using Apache Spark 
 
+## Apache Spark Streaming
+Using Twitter api and Tweepy to stream real-time data using Apache Spark
+
 ## Apache Spark Exploration
-Demo notebook of Spark features in demo jupyter notebook exploring pyspark.sql and pyspark.mlib using Binary classification and logistic regression
+Demo jupyter notebook of different Spark features also available, exploring pyspark.sql and pyspark.mlib using Binary classification and logistic regression
 
 ## Requirements
 
